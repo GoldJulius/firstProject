@@ -1,16 +1,14 @@
-p {
-  background-color: blue;
-  color: white;
-}
-
 h1 {
   font-size: 3rem;
+  text-align: center;
+  font-family: 'Rampart One', cursive;
 }
 
-#destinations {
-  background-color: red;
+p {
+  font-family: serif;
+  font-size: 16px;
 }
 
 a {
-  color: blue;
+  font-weight: 900;
 }
